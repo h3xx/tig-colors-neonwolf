@@ -4,6 +4,18 @@ This is a high-contrast, dark colorscheme for [tig](https://github.com/jonas/tig
 
 ![sample](https://raw.githubusercontent.com/h3xx/tig-colors-neonwolf/master/screenshots/sample.png)
 
+## Installation
+
+Include it as part of your `~/.tigrc` file.
+
+    $ mkdir -p ~/.tig
+    $ cp tig-colors-neonwolf-256.tigrc ~/.tig
+    $ echo 'source ~/.tig/tig-colors-neonwolf-256.tigrc' >>~/.tigrc
+
+Or if you're particularly lazy:
+
+    $ cat tig-colors-neonwolf-256.tigrc >>~/.tigrc
+
 ## Contributing
 
 Send me a pull request!
