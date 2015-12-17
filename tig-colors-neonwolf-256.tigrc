@@ -1,0 +1,60 @@
+# Neonwolf Color Scheme for Tig
+# Based mostly on the colors from the badwolf airline theme
+color header			39	235	bold
+
+# diff view
+color diff-header		39	235	bold
+color diff-index		39	235	bold
+color diff-oldmode		39	235	bold
+color diff-newmode		39	235	bold
+color diff-stat			222	235	bold
+color diff-chunk		165	235	bold
+color diff-add			154	235	bold
+color diff-del			196	235	bold
+color " +"			154	default
+color " -"			196	default
+color "--- "			39	235	bold
+color "+++ "			39	235	bold
+color "Merge: "			222	235	bold
+color "commit "			154	235	bold
+color "Commit: "		39	235	bold
+color "CommitDate: "		165	235	bold
+color "Author: "		39	235	bold
+color "AuthorDate: "		165	235	bold
+color "Tagger: "		222	235	bold
+color "TaggerDate: "		222	235	bold
+
+# main view
+color author			39	235	bold
+color date			165	235	bold
+color graph-commit		154	default bold
+color id			154	235	bold
+color main-remote		222	235	bold
+color main-tracked		222	235	bold
+color main-tag			222	235	bold
+color main-local-tag		222	235	bold
+color main-head			81	235	bold
+color main-ref			121	235	bold
+
+# window dressing
+color title-blur		39	235	bold
+color title-focus		39	232	bold reverse
+color cursor			232	154	bold
+color status			82	default
+
+# lines in digraph
+color palette-0			165	default bold
+color palette-1			39	default bold
+color palette-2			222	default bold
+color palette-3			166	default bold
+color palette-4			121	default bold
+color palette-5			82	default bold
+color palette-6			196	default bold
+color palette-7			238	default bold
+# repeat
+color palette-8			165	default
+color palette-9			39	default
+color palette-10		222	default
+color palette-11		166	default
+color palette-12		121	default
+color palette-13		82	default
