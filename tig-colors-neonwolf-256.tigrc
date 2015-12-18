@@ -16,6 +16,7 @@ color " -"			196	default
 color "--- "			39	235	bold
 color "+++ "			39	235	bold
 color "Merge: "			222	235	bold
+color "Refs: "			222	235	bold
 color "commit "			154	235	bold
 color "Commit: "		39	235	bold
 color "CommitDate: "		165	235	bold
@@ -23,6 +24,13 @@ color "Author: "		39	235	bold
 color "AuthorDate: "		165	235	bold
 color "Tagger: "		222	235	bold
 color "TaggerDate: "		222	235	bold
+
+# log view, mostly
+color "Date: "			165	235	bold
+color "    Signed-off-by"	222	235	bold
+color "    Acked-by"		222	235	bold
+color "    Tested-by"		222	235	bold
+color "    Reviewed-by"		222	235	bold
 
 # main view
 color author			39	235	bold
@@ -35,6 +43,7 @@ color main-tag			222	235	bold
 color main-local-tag		222	235	bold
 color main-head			81	235	bold
 color main-ref			121	235	bold
+color overflow			196	default
 
 # window dressing
 color title-blur		39	235	bold
@@ -58,3 +67,13 @@ color palette-10		222	default
 color palette-11		166	default
 color palette-12		121	default
 color palette-13		82	default
+
+# grep view
+color grep.file			39	235	bold
+color grep.line-number		165	235	bold
+color grep.delimiter		82	235	bold # no effect?
+color delimiter			82	235	bold # no effect?
+
+# help view
+color help-group		165	235	bold
+color help-action		222	235	bold
