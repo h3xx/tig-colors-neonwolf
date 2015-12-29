@@ -1,5 +1,8 @@
 # Neonwolf Color Scheme for Tig
+#
 # Based mostly on the colors from the badwolf airline theme
+#
+# Github: https://github.com/h3xx/tig-colors-neonwolf
 color header			39	235	bold
 
 # diff view
