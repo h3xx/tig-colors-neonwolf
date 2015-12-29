@@ -3,6 +3,12 @@
 # Based mostly on the colors from the badwolf airline theme
 #
 # Github: https://github.com/h3xx/tig-colors-neonwolf
+#
+
+# disable importing colors from git config
+# (breaks main-ref coloring, probably others)
+set git-colors = no
+
 color header			39	235	bold
 
 # diff view
