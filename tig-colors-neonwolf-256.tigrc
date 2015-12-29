@@ -66,6 +66,12 @@ color mode			121	default
 color directory			121	default	bold
 color file			255	default
 
+# status view
+color stat-none			82	default
+color stat-staged		154	235	bold
+color stat-unstaged		166	235	bold
+color stat-untracked		81	235	bold
+
 # lines in digraph
 color palette-0			165	default bold
 color palette-1			39	default bold
