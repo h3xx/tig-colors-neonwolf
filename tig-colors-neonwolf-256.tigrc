@@ -49,8 +49,8 @@ color graph-commit		154	default bold
 color id			154	235	bold
 color main-remote		222	235	bold
 color main-tracked		222	235	bold
-color main-tag			222	235	bold
-color main-local-tag		222	235	bold
+color main-tag			166	235	bold
+color main-local-tag		166	235	bold
 color main-head			81	235	bold
 color main-ref			121	235	bold
 color overflow			196	default
