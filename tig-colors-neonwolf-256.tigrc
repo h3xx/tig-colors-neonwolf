@@ -60,6 +60,11 @@ color title-focus		39	232	bold reverse
 color cursor			232	154	bold
 color status			82	default
 
+# tree view
+color mode			81	default
+color directory			121	default	bold
+color file			255	default
+
 # lines in digraph
 color palette-0			165	default bold
 color palette-1			39	default bold
