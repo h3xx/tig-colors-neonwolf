@@ -9,7 +9,8 @@
 # (breaks main-ref coloring, probably others)
 set git-colors = no
 
-color header			39	235	bold
+color header			121	235	bold
+color section			39	235	bold
 
 # diff view
 color diff-header		39	235	bold
@@ -61,7 +62,7 @@ color cursor			232	154	bold
 color status			82	default
 
 # tree view
-color mode			81	default
+color mode			121	default
 color directory			121	default	bold
 color file			255	default
 
