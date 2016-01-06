@@ -1,4 +1,4 @@
-# Neonwolf Colorscheme for Tig
+# Neonwolf Colorscheme for [Tig](https://github.com/jonas/tig)
 
 This is a high-contrast, dark colorscheme for [tig](https://github.com/jonas/tig) that was inspired by the badwolf series of color schemes.
 
