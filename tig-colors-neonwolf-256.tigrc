@@ -34,6 +34,7 @@ color "Author: "		39	235	bold
 color "AuthorDate: "		165	235	bold
 color "Tagger: "		222	235	bold
 color "TaggerDate: "		222	235	bold
+color "---"			165	default	bold
 
 # log view, mostly
 color "Date: "			165	235	bold
