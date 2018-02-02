@@ -14,9 +14,13 @@ color section			39	235	bold
 
 # diff view
 color diff-header		39	235	bold
-color diff-index		39	235	bold
-color diff-oldmode		39	235	bold
-color diff-newmode		39	235	bold
+color diff-index		81	235	bold
+color diff-oldmode		81	235	bold
+color diff-newmode		81	235	bold
+color "rename from "		81	235	bold
+color "rename to "		81	235	bold
+color "similarity "		81	235	bold
+color "dissimilarity "		81	235	bold
 color diff-stat			222	235	bold
 color diff-chunk		165	235	bold
 color diff-add			154	235	bold
