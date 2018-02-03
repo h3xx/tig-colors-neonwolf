@@ -11,6 +11,7 @@ set git-colors = no
 
 color header			121	235	bold
 color section			39	235	bold
+color search-result		black	81	bold
 
 # diff view
 color diff-header		39	235	bold
