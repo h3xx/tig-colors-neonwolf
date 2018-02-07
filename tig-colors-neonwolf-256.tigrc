@@ -25,7 +25,9 @@ color "dissimilarity "		81	235	bold
 color diff-stat			222	235	bold
 color diff-chunk		165	235	bold
 color diff-add			154	235	bold
+color diff-add-highlight	232	154	bold
 color diff-del			196	235	bold
+color diff-del-highlight	232	196	bold
 color " +"			154	default
 color " -"			196	default
 color "--- "			39	235	bold
