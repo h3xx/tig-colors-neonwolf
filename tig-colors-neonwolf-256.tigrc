@@ -104,3 +104,5 @@ color delimiter			82	235	bold # no effect?
 # help view
 color help-group		165	235	bold
 color help-action		222	235	bold
+
+# vi: ts=8 sts=8 sw=8 noet
