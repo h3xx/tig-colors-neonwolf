@@ -9,12 +9,12 @@ This is a high-contrast, dark colorscheme for [tig](https://github.com/jonas/tig
 Include it as part of your `~/.config/tig/config` file.
 
     $ mkdir -p ~/.config/tig
-    $ cp tig-colors-neonwolf-256.tigrc ~/.config/tig
-    $ echo 'source ~/.config/tig/tig-colors-neonwolf-256.tigrc' >>~/.config/tig/config
+    $ git clone https://github.com/h3xx/tig-colors-neonwolf.git ~/.config/tig/tig-colors-neonwolf
+    $ echo 'source ~/.config/tig/tig-colors-neonwolf/tig-colors-neonwolf-256.tigrc' >>~/.config/tig/config
 
-Or if you're particularly lazy:
+**Note:** Some older versions of Tig use `~/.tigrc` as the config file location. In that case, replace the last step with:
 
-    $ cat tig-colors-neonwolf-256.tigrc >>~/.config/tig/config
+    $ echo 'source ~/.config/tig/tig-colors-neonwolf/tig-colors-neonwolf-256.tigrc' >>~/.tigrc
 
 ## Contributing
 
@@ -26,7 +26,7 @@ Develop a low-color variant.
 
 ## License
 
-Copyright (C) 2015-2018 Dan Church.
+Copyright (C) 2015-2020 Dan Church.
 
 License: MIT
 
