@@ -26,7 +26,7 @@ Develop a low-color variant.
 
 ## License
 
-Copyright (C) 2015-2020 Dan Church.
+Copyright (C) 2015-2022 Dan Church.
 
 License: MIT
 
