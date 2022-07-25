@@ -45,10 +45,24 @@ color "---"			165	default	bold
 
 # log view, mostly
 color "Date: "			165	235	bold
-color "    Signed-off-by"	222	235	bold
-color "    Acked-by"		222	235	bold
-color "    Tested-by"		222	235	bold
-color "    Reviewed-by"		222	235	bold
+color "    Acked-by:"		222	235	bold
+color "    Based-on-patch-by:"	222	235	bold
+color "    Cc:"			222	235	bold
+color "    Co-authored-by:"	222	235	bold
+color "    Contributions-by:"	222	235	bold
+color "    Helped-by:"		222	235	bold
+color "    Improved-by:"	222	235	bold
+color "    Inspired-by:"	222	235	bold
+color "    Mentored-by:"	222	235	bold
+color "    Noticed-by:"		222	235	bold
+color "    Original-patch-by:"	222	235	bold
+color "    Reported-by:"	222	235	bold
+color "    Requested-by:"	222	235	bold
+color "    Reviewed-by:"	222	235	bold
+color "    Signed-off-by:"	222	235	bold
+color "    Suggested-by:"	222	235	bold
+color "    Tested-by:"		222	235	bold
+color "    Thanks-to:"		222	235	bold
 
 # main view
 color author			39	235	bold
