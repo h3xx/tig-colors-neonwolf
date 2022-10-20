@@ -1,35 +1,16 @@
 # Neonwolf Colorscheme for [Tig](https://github.com/jonas/tig)
 
-This is a high-contrast, dark colorscheme for [tig](https://github.com/jonas/tig) that was inspired by the badwolf series of color schemes.
+This project has moved to Codeberg:
+https://codeberg.org/h3xx/tig-colors-neonwolf
 
-![sample](/../flair/screenshots/sample.png)
+# Give Up GitHub
 
-## Installation
+This project has given up GitHub. ([See Software Freedom Conservancy's *Give Up GitHub* site for details](https://giveupgithub.org).)
 
-Include it as part of your `~/.config/tig/config` file.
+You can now find this project at https://codeberg.org/h3xx/tig-colors-neonwolf instead.
 
-    $ mkdir -p ~/.config/tig
-    $ git clone https://github.com/h3xx/tig-colors-neonwolf.git ~/.config/tig/tig-colors-neonwolf
-    $ echo 'source ~/.config/tig/tig-colors-neonwolf/tig-colors-neonwolf-256.tigrc' >>~/.config/tig/config
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission. We do not consent to GitHub's use of this project's code in Copilot.
 
-**Note:** Some older versions of Tig use `~/.tigrc` as the config file location. In that case, replace the last step with:
+Join us; you can [give up GitHub](https://giveupgithub.org) too!
 
-    $ echo 'source ~/.config/tig/tig-colors-neonwolf/tig-colors-neonwolf-256.tigrc' >>~/.tigrc
-
-## Contributing
-
-Send me a pull request!
-
-## TODO
-
-Develop a low-color variant.
-
-## License
-
-Copyright (C) 2015-2022 Dan Church.
-
-License: MIT
-
-This is free software: you are free to change and redistribute it.
-
-There is NO WARRANTY, to the extent permitted by law.
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
